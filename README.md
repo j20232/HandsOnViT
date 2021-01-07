@@ -4,6 +4,7 @@
 
 Hand on ViT
 
+![](./assets/vit.png)
 
 ## Installation
 
